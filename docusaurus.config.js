@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/free-icon-c-logo-74906.png',
 
   // Set the production url of your site here
-  url: 'https://dan1l_git.github.io',
+  url: 'https://dan1l-git.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/havryliuk-kp-33/',
+  baseUrl: '/havryliuk-kp-33-kpi/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'dan1l_git', // Usually your GitHub org/user name.
+  organizationName: 'dan1l-git', // Usually your GitHub org/user name.
   projectName: 'havryliuk-kp-33-kpi', // Usually your repo name.
 
   onBrokenLinks: 'throw',
