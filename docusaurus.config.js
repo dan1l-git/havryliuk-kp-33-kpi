@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'danylohavryliuk', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-lab-kpi', // Usually your repo name.
+  organizationName: 'dan1l_git', // Usually your GitHub org/user name.
+  projectName: 'havryliuk-kp-33-kpi', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
